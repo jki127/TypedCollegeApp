@@ -1,0 +1,92 @@
+.section{
+  text-align: center;
+  color: white;
+  font-family: 'Lato';
+  font-weight: 300;
+  font-size: 45px;
+}
+.blue{
+  background: #3498db;
+}
+.lightgreen{
+  background: #1abc9c;
+}
+.purple{
+  background: #9b59b6;
+}
+.darkblue{
+  background: #34495e;
+}
+.orange{
+  background: #f39c12;
+}
+.carrot{
+  background: #e67e22;
+}
+.lightred{
+  background: #e74c3c;
+}
+.gray{
+  background: #95a5a6;
+}
+.hunter_font{
+  color: #8e44ad;
+  font-weight: 700;
+  font-size: 50px;
+}
+.button-outline {
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  vertical-align: middle;
+  zoom: 1;
+  color: #fff;
+  padding: 12px 31px;
+  border: 2px solid #fff;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 400;
+  background: rgba(0, 0, 0, 0.15);
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear; 
+}
+.button-outline:hover {
+  text-decoration: none;
+  color: #ddd;
+  border-color: #ddd;
+}
+.container{
+  text-align: center;
+}
+.entered{
+  border-bottom: 1px solid white;
+}
+.entered_black{
+  background: black;
+  padding: 15px;
+}
+table{
+  margin: auto;
+}
+.basic_info td{
+  width: 400px;
+}
+.major_table td{
+  width: 45%;
+}
+#major_explain{
+  min-height: 450px;
+}
+#favpart, #regret, #comfy{
+  width: 600px;
+  margin: 0 auto;
+}
+.center{
+  margin: 0 auto;
+}
+.font_green{
+  color: #2ecc71;
+}
